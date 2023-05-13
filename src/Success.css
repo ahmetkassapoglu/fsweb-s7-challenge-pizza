@@ -1,0 +1,63 @@
+#main{
+   background-color: #CE2829
+}
+.header{
+    font-family: 'Quattrocento', serif;
+}
+.container{
+    width: 45%;
+    margin: auto;
+    text-align: center;
+}
+.order-succes{
+    margin-top:96px;
+   }
+.order-succes p {
+    color: #FDC913;
+    font-family: 'Satisfy', cursive;
+    margin-bottom: 0px;
+    font-size: 20px;
+}
+.order-succes h1 {
+    color: #FAF7F2;
+    font-family:'Barlow', sans-serif;
+    font-weight: 150;
+    font-size: 60px;
+    margin-top: 0px;
+}
+   hr{
+    border: 1px solid white;
+    color: white;
+   }
+#pizza-name{
+    color:#FAF7F2 ;
+    font-size: 25px;
+}
+.succes-details{
+    color: #FAF7F2;
+    width: 40%;
+   margin: auto;
+   margin-top: 50px;
+   text-align: left;
+}
+#succes-contain {
+    margin: auto;
+}
+
+.order-output{
+    color: #FAF7F2;
+    margin:auto;
+    margin-top: 75px;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid white;
+    border-radius: 4px;
+    margin-bottom: 40px;
+
+}
+.output-element{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}

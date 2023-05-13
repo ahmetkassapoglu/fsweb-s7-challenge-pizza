@@ -80,15 +80,15 @@ Sarı #FDC913, Açık Gri: #5F5F5F, Koyu Gri #292929, Kırmızı #CE2829, Bej: #
 
 MVP aşamasına getirdiğiniz (minimum viable product), aşağıdaki gereksinimlerin hepsini sağlamalıdır.
 
-- [ ] Route u "/" olan ve içinde hero alanındaki buton ile forma linklenen bir anasayfa. (button, nav bar, ya da herhangi bir link kabul edilebilir ama id'si "order-pizza" olmalı)
-- [ ] Route u "/pizza" olan bir sipariş formu
-- [ ] Id'si "pizza-form" olan bir form
-- [ ] Id'si "name-input" olan bir isim inputu
+- [ ] Route u "/" olan ve içinde hero alanındaki buton ile forma linklenen bir anasayfa. (button, nav bar, ya da herhangi bir link kabul edilebilir ama id'si "order-pizza" olmalı) ----------------------
+- [ ] Route u "/pizza" olan bir sipariş formu----------
+- [ ] Id'si "pizza-form" olan bir form -------------
+- [ ] Id'si "name-input" olan bir isim inputu -----------------
 - [ ] İsim için bir doğrulama(validation) ve hata mesajı (İsim en az 2 karakter olmalıdır)
-- [ ] Pizza boyutunun seçilebileceği "size-dropdown" id'li bir dropdown
-- [ ] Malzemeler için bir checklist(checkbox) - en az 4 adet (ipucu: name attributeları farklı olsun!)
-- [ ] Özel seçimler için bir text input "special-text" id'li
-- [ ] "order-button" id'li bir "Sipariş Ver" butonu. Bu buton tıklandığında form gönderilerek girilen bilgileri içerecek bir veritabanı kaydı oluşturulacak.
+- [ ] Pizza boyutunun seçilebileceği "size-dropdown" id'li bir dropdown --------------------
+- [ ] Malzemeler için bir checklist(checkbox) - en az 4 adet (ipucu: name attributeları farklı olsun!)---
+- [ ] Özel seçimler için bir text input "special-text" id'li---
+- [ ] "order-button" id'li bir "Sipariş Ver" butonu. Bu buton tıklandığında form gönderilerek girilen bilgileri içerecek bir veritabanı kaydı oluşturulacak.---yarım
 - [ ] Sipariş özeti console'a yazdırılacak.
 
 Not - Form'un payloadu, veri **örnek olarak** şu şekilde olabilir. **Kendiniz de bu yapıyı değiştirebilirsiniz.**
@@ -150,7 +150,7 @@ MVP'yi bitirdikten sonra çalışmanı daha da ileri götürebilirsin. Buradaki 
 - [ ] Tasarım Güncellemesi: **Sipariş** Form elemanlarını (inputlar), özel renk ve tasarım diline göre güncelle
 - [ ] Cypressle daha çok test yaz
 - [ ] Aşağıdaki görsellere göre sayfaları sırasıyla iyileştirin. Önceliklendirme .çok önemli. İlk önce sipariş, sonra Sipariş Formu, en son da Anasayfadaki diğer yardımcı görselleri ekleyebilirsiniz.
-
+n
 #### İleri Düzey Görev Önemli Notlar!
 
 - Tasarımı birebir uygulamalısın.
